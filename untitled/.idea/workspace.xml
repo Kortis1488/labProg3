@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e2bd1b0-e157-418a-b9dc-be3db7f7cbc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../labProg3/Activities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/Alice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/AliceBranchCling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/AliceDisentangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/AliceGetOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/AliceHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/AliceListen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/AliceMakingWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/AliceOut2FA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/AliceRemMur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/AliceStop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/Alter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/Branches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/Changes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/Charater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/CharaterAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/Mursh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/OutPut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/ThreeAlice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labProg3/Way.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ImvDuu2BeYWjUsehLKruABEIjO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/medve/Desktop/orig/orig/java/labP3/lab",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e2bd1b0-e157-418a-b9dc-be3db7f7cbc0" name="Changes" comment="" />
+      <created>1670799460885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670799460885</updated>
+    </task>
+    <servers />
+  </component>
+</project>
